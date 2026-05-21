@@ -1,0 +1,7 @@
+# Never commit the real student data version
+student_dashboard.html
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
